@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of GHちびずアプリ",
+  "description": "A dedicated task management and procedure sharing application for group home staff. Features timeline-based schedules, photo sharing for belongings, and AI-assisted reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
